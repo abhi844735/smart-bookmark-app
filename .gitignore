@@ -29,3 +29,8 @@ yarn-error.log*
 
 # Vercel
 .vercel
+
+# Docs - track only README and CHALLENGES_AND_SOLUTIONS; ignore the rest
+*.md
+!README.md
+!CHALLENGES_AND_SOLUTIONS.md
